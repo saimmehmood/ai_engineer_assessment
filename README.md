@@ -1,3 +1,5 @@
+## The improvements made by me are listed in Key Enhancements section
+
 # TextLayer Technical Interview
 
 <div align="center">
